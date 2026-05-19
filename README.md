@@ -20,7 +20,7 @@ Use webpack
     npm i react
     npm i react-dom
     ```
-3. install webpack, webpack-cli, webpackpdev-server, html-webpack-plugin as dev dependency.
+3. install webpack, webpack-cli, webpackpdev-server, html-webpack-plugin as dev dependencies.
     ```bash
     npm i -D webpack
     npm i -D webpack-cli
@@ -33,4 +33,10 @@ Use webpack
     npm i -D babel-loader
     npm i -D @babel/preset-react
     npm i -D @babel/preset-env
+    ```
+5. install TS, types of react and react-dom as dev dependecies.
+    ``` bash
+        npm i -D typescript
+        npm i -D @types/react
+        npm i -D @types/react-dom
     ```
