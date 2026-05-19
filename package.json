@@ -1,0 +1,23 @@
+{
+  "name": "practical-21",
+  "version": "1.0.0",
+  "description": "Create react app from scratch",
+  "homepage": "https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch#readme",
+  "bugs": {
+    "url": "https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch.git"
+  },
+  "license": "ISC",
+  "author": "Krutarth Pipaliya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.6"
+  }
+}
