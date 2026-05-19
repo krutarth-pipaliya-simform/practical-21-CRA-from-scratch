@@ -6,7 +6,7 @@ Use webpack
 ## Important Links
 
 - [Repo Link](https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch)
-- [PR Link]()
+- [PR Link](https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch/pull/1)
 - [Live Link]()
 
 ## Steps to perform.
