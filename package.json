@@ -1,36 +1,39 @@
 {
-  "name": "practical-21",
-  "version": "1.0.0",
-  "description": "Create react app from scratch",
-  "homepage": "https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch#readme",
-  "bugs": {
-    "url": "https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch.git"
-  },
-  "license": "ISC",
-  "author": "Krutarth Pipaliya",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.29.0",
-    "@babel/preset-env": "^7.29.5",
-    "@babel/preset-react": "^7.28.5",
-    "@types/react": "^19.2.14",
-    "@types/react-dom": "^19.2.3",
-    "html-webpack-plugin": "^5.6.7",
-    "typescript": "^6.0.3",
-    "webpack": "^5.106.2",
-    "webpack-cli": "^7.0.2",
-    "webpack-dev-server": "^5.2.4"
-  }
+    "name": "practical-21",
+    "version": "1.0.0",
+    "description": "Create react app from scratch",
+    "homepage": "https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch#readme",
+    "bugs": {
+        "url": "https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch.git"
+    },
+    "license": "ISC",
+    "author": "Krutarth Pipaliya",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack-dev-server --mode development --open --hot",
+        "build": "webpack --mode production"
+    },
+    "dependencies": {
+        "react": "^19.2.6",
+        "react-dom": "^19.2.6"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.29.0",
+        "@babel/preset-env": "^7.29.5",
+        "@babel/preset-react": "^7.28.5",
+        "@babel/preset-typescript": "^7.28.5",
+        "@types/react": "^19.2.14",
+        "@types/react-dom": "^19.2.3",
+        "babel-loader": "^10.1.1",
+        "html-webpack-plugin": "^5.6.7",
+        "typescript": "^6.0.3",
+        "webpack": "^5.106.2",
+        "webpack-cli": "^7.0.2",
+        "webpack-dev-server": "^5.2.4"
+    }
 }
