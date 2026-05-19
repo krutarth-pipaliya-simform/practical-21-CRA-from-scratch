@@ -15,4 +15,12 @@ Use webpack
     ```bash
     npm init
     ```
-2. 
+2. install react and react-dom
+    ```bash
+    npm i react
+    npm i react-dom
+    ```
+3. install webpack as dev dependency
+    ```bash
+    npm i -D webpack
+    ```
