@@ -20,7 +20,9 @@ Use webpack
     npm i react
     npm i react-dom
     ```
-3. install webpack as dev dependency
+3. install webpack, webpack-cli, webpackpdev-server as dev dependency
     ```bash
     npm i -D webpack
+    npm i -D webpack-cli
+    npm i -D webpack-dev-server
     ```
