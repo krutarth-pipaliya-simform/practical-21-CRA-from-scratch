@@ -15,14 +15,22 @@ Use webpack
     ```bash
     npm init
     ```
-2. install react and react-dom
+2. install react and react-dom.
     ```bash
     npm i react
     npm i react-dom
     ```
-3. install webpack, webpack-cli, webpackpdev-server as dev dependency
+3. install webpack, webpack-cli, webpackpdev-server, html-webpack-plugin as dev dependency.
     ```bash
     npm i -D webpack
     npm i -D webpack-cli
     npm i -D webpack-dev-server
+    npm i -D html-webpack-plugin
+    ```
+4. install babel as dev dependency.
+    ```bash
+    npm i -D @babel/core
+    npm i -D babel-loader
+    npm i -D @babel/preset-react
+    npm i -D @babel/preset-env
     ```
