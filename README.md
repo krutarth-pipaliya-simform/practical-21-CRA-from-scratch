@@ -7,7 +7,7 @@ Use webpack
 
 - [Repo Link](https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch)
 - [PR Link](https://github.com/krutarth-pipaliya-simform/practical-21-CRA-from-scratch/pull/1)
-- [Live Link]()
+- [Live Link](https://deploy-preview-1--animated-cocada-c5e086.netlify.app/)
 
 ## Steps to perform.
 
